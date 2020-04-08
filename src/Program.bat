@@ -1,3 +1,4 @@
 @echo off
+SET CLASSPATH = src\*
 javac src/Sample1.java
-java src.Sample1
+java Sample1
