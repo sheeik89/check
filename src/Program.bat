@@ -1,6 +1,5 @@
 @echo off
-javac Sample1.java
-javac Sample2.java
+javac -C:\Program Files (x86)\Jenkins\workspace\src -d C:\Program Files (x86)\Jenkins\workspace\src Sample1.java
 SET CLASSPATH = .;C:\Program Files (x86)\Jenkins\workspace\src
 java Sample1
-java Sample2
+
