@@ -4,6 +4,7 @@ public class Sample2 {
 		System.out.println("Inside Sample 2");
 		System.out.println("I made this commit from Branch 4");
 		System.out.println("I made this commit from Branch 4 - Again 1");
+		
 	}
 
 }
