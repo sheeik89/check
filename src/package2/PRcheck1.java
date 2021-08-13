@@ -1,4 +1,4 @@
-package package2;
+package src.package2;
 
 public class PRcheck1 {
 

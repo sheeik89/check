@@ -1,4 +1,4 @@
-
+package src;
 public class StashCheck {
 
 	public static void main(String[] args) {
